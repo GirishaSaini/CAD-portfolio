@@ -1,7 +1,13 @@
 # CAD-portfolio
-A growing portfolio of 3D CAD models and assemblies
--Some models in this portfolio are recreated from publicly available engineering drawings for learning and skill development.
--CSWP practice models (named CSWP_<practice model no.>) are based on official SolidWorks CSWP practice drawings. The original reference drawings are not included in this repository. 
 
-06-07-2026: PracticePart1
-07-07-2026 : CSWP_18.1
+A growing portfolio of 3D CAD models and assemblies.
+
+## References
+
+- Some models in this portfolio are recreated from publicly available engineering drawings for learning and skill development.
+- CSWP practice models (named `CSWP_<practice model no.>`) are based on official SolidWorks CSWP practice drawings. The original reference drawings are not included in this repository.
+
+## Models
+
+- **06-07-2026** — PracticePart1
+- **07-07-2026** — CSWP_18.1
