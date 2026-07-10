@@ -1,6 +1,6 @@
 # CAD-portfolio
 
-A growing portfolio of 3D CAD models and assemblies.
+A growing portfolio of 3D CAD models and assemblies created using solidworks.
 
 ## References
 
