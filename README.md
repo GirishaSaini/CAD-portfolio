@@ -9,7 +9,7 @@ A growing portfolio of 3D CAD models and assemblies created using solidworks.
 
 ## Models
 
-- **06-07-2026** — PracticePart1 <img width="955" height="697" alt="PracticePart1" src="https://github.com/user-attachments/assets/58484666-21c3-43f1-bde1-bb0f6be97ffa" />
+- **06-07-2026** — PracticePart1 <img width="477.5" height="348.5" alt="PracticePart1" src="https://github.com/user-attachments/assets/58484666-21c3-43f1-bde1-bb0f6be97ffa" />
 
 - **07-07-2026** — CSWP_18.1
 - **08-07-2026** — head yoke
