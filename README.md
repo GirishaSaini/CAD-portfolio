@@ -16,3 +16,4 @@ A growing portfolio of 3D CAD models and assemblies created using solidworks.
 - **10-07-2026** — bicycle hand tool
 - **11-07-2026** — CSWP_18.2
 - **12-07-2026** — CSWP_18.3, CSWP_18.4
+- **13-07-2026** — CSWP_18.5A
