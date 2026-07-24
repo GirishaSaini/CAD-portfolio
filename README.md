@@ -59,3 +59,6 @@ A growing portfolio of 3D CAD models and assemblies created using solidworks.
 
 - **23-07-2026** — CSWP_18_15
   <img width="186.66" height="253.66" alt="CSWP_18_15" src="https://github.com/user-attachments/assets/2cbd6d4d-3163-40be-a286-f8dda5a6e884" />
+
+- **24-07-2026** — CSWP_18_16
+  <img width="290" height="227.33" alt="CSWP_18_16" src="https://github.com/user-attachments/assets/cab1153b-fdae-433c-b670-bbc21edb23bd" />
