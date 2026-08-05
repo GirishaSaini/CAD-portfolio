@@ -10,16 +10,16 @@ A growing portfolio of 3D CAD models and assemblies created using solidworks.
 ## Models
 
 - **06-07-2026** — PracticePart1
-  <img width="318.33" height="232.33" alt="PracticePart1" src="https://github.com/user-attachments/assets/58484666-21c3-43f1-bde1-bb0f6be97ffa" />
+  <img width="159.165" height="116.165" alt="PracticePart1" src="https://github.com/user-attachments/assets/58484666-21c3-43f1-bde1-bb0f6be97ffa" />
   
 - **07-07-2026** — CSWP_18.1
-  <img width="307.33" height="186.66" alt="CSWP_18 1" src="https://github.com/user-attachments/assets/e4448bc3-a57e-4ed8-8a18-784abb52cb4e" />
+  <img width="153.66" height="93.33" alt="CSWP_18 1" src="https://github.com/user-attachments/assets/e4448bc3-a57e-4ed8-8a18-784abb52cb4e" />
 
 - **08-07-2026** — head yoke
-  <img width="470" height="246.66" alt="head yoke" src="https://github.com/user-attachments/assets/3ebce76f-49b1-4650-ac3b-7301b43ef683" />
+  <img width="235" height="123.33" alt="head yoke" src="https://github.com/user-attachments/assets/3ebce76f-49b1-4650-ac3b-7301b43ef683" />
 
 - **09-07-2026** — rod support, y-pipe
-  <img width="183.66" height="203.66" alt="rod support" src="https://github.com/user-attachments/assets/33d3bf41-a1d0-4cf0-81cf-3c68e95970f2" />  <img width="310.33" height="214" alt="y-pipe" src="https://github.com/user-attachments/assets/489b5020-a2a0-404f-b2a5-d49396b26118" />
+  <img width="122.44" height="135.77" alt="rod support" src="https://github.com/user-attachments/assets/33d3bf41-a1d0-4cf0-81cf-3c68e95970f2" />  <img width="155.16" height="107" alt="y-pipe" src="https://github.com/user-attachments/assets/489b5020-a2a0-404f-b2a5-d49396b26118" />
 
 - **10-07-2026** — bicycle hand tool
   <img width="316" height="180.66" alt="bicycle hand tool" src="https://github.com/user-attachments/assets/198568a4-4545-4444-804b-c273002442f2" />
